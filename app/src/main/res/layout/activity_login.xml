@@ -111,6 +111,7 @@
                         android:textSize="@dimen/textsize_donthaveaccount"
                         android:layout_toRightOf="@id/donHaveAccount"
                         android:onClick="goCreateAccount"
+                        android:layout_marginLeft="@dimen/timecard_marginleft_card"
                         />
 
                 </RelativeLayout>
